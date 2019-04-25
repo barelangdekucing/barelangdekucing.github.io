@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "barelangdekucing.com",
+    "name": "barelangdekucing.com.my",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -43,13 +43,13 @@
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "siteUrl": "https://rekalusi.com/barelangdekucing",
+    "siteUrl": "https://barelangdekucing.com.my/",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-139073416-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-139073416-1');\r\n</script>",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-139073416-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-139073416-1');\r\n</script>\r\n",
     "sitemapSwitcher": "on"
   },
   "pages": {
