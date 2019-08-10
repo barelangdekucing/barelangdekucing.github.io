@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Barelang De Kucing | Cat Shop & Services in Johor Bahru and Singapore",
+    "name": "barelangdekucing.com.my",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -39,7 +39,7 @@
     "versionFirst": "4.8.6",
     "siteFonts": [],
     "uniqCompNum": 75,
-    "versionPublish": "4.10.7",
+    "versionPublish": "4.10.6",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -50,23 +50,14 @@
     "cookiesAlert": "",
     "gdpr": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-139073416-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-139073416-1');\r\n</script>\r\n",
-    "sitemapSwitcher": "on",
-    "customCookies": {
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "#ffffff",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacity": "99",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
-    }
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Barelang De Kucing | Cat Shop in Johor Bahru & Singapore Service",
-        "meta_descr": "barelang de kucing is a non-government-organization. In offering latest cat product, grooming services and cat hotel, the this pet or cat store also provide other accessories as well. ",
+        "title": "Barelang De Kucing",
+        "meta_descr": "Located in Johor Bahru, Barelang is a non-government-organization that was established in 200?. In providing cat’s product and care-services to consumers primarily located in Johor and Singapore, Barelang offer various product for cat-owners & cat-lovers aswell.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
