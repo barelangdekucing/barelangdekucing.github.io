@@ -54,7 +54,7 @@
     "gdpr": "",
     "сanonical-url": "https://www.barelangdekucing.com.my/",
     "cleanCSS": true,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsText": "User-agent: *\nDisallow: \n\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "",
     "customCookies": {
