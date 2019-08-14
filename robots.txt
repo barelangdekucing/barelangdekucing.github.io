@@ -1,5 +1,22 @@
 User-agent: *
+
 Disallow: 
 
 
 
+
+User-agent: AdsBot-Google
+Allow: /maps/api/js?
+Disallow: /maps/api/js/
+Disallow: /maps/api/place/js/
+Disallow: /maps/api/staticmap?
+Disallow: /maps/api/streetview?
+Disallow: /maps/api/streetview/
+
+User-agent: *
+Allow: /maps/api/js?
+Disallow: /maps/api/js/
+Disallow: /maps/api/place/js/
+Disallow: /maps/api/staticmap?
+Disallow: /maps/api/streetview?
+Disallow: /maps/api/streetview/
