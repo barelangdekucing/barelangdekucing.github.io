@@ -8,7 +8,16 @@ Disallow:
 
 User-agent: AdsBot-Google
 Allow: /maps/api/js?
+Allow: /maps/api/js/
+Allow: /maps/api/place/js/
+Allow: /maps/api/staticmap?
+Allow: /maps/api/streetview?
+Allow: /maps/api/streetview/
 
 User-agent: *
 Allow: /maps/api/js?
-Disallow: 
+Allow: /maps/api/js/
+Allow: /maps/api/place/js/
+Allow: /maps/api/staticmap?
+Allow: /maps/api/streetview?
+Allow: /maps/api/streetview/
